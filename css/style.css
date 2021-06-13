@@ -814,7 +814,7 @@ transition: margin-left .5s;
         width: 5rem;
         height: 100%;
         background-color: #eee;
-        position: relative;
+        position: fixed;
         display: flex;
         flex-direction: column;
         justify-content: space-between;

@@ -843,10 +843,9 @@ transition: margin-left .5s;
     .footer{
         margin-left: 5rem;
     }
-    
-
-
-
+    .checkbox:checked ~ .navigation {
+        left: 5rem;
+    }
 }
 
 

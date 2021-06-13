@@ -810,6 +810,17 @@ transition: margin-left .5s;
     .image-wrapper{
         width: 12rem;
     }
+    .sidebar{
+        width: 4rem;
+        height: 100%;
+        background-color: #eee;
+        position: fixed;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        z-index: 10;
+    }
 }
 
 
